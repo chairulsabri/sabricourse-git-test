@@ -1,6 +1,4 @@
-<h1>hasil karya management barudak course</h1>
-<p>Hai</p>
-
+<h1>ini staging</h1>
 based url: https://deaaprizal.github.io/deacourse-starter-temp-w-new-age-lib
 check routes url team di: 
 /team1
